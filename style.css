@@ -42,7 +42,7 @@
 }
 
 .show-menu #line1{
-    transform: rotate(42deg) translate(0.3rem, 0.45rem);
+    transform: rotate(45deg) translate(0.3rem, 0.45rem);
 }
 
 .show-menu #line2{
@@ -51,7 +51,7 @@
 }
 
 .show-menu #line3{
-    transform: rotate(-42deg) translate(0.2rem, -0.45rem);
+    transform: rotate(-45deg) translate(0.1rem, -0.45rem);
     
 }
 
